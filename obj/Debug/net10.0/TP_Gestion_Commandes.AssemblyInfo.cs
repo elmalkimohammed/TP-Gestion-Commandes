@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP_Gestion_Commandes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d9a4b2d2f0999ff86cd298d4e0c6edc0037304c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b2410d4c997ba5aa6f70c1430f9a6cf9d69adab")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP_Gestion_Commandes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP_Gestion_Commandes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
