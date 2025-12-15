@@ -4,7 +4,7 @@ namespace TP_Gestion_Commandes.Controllers
 {
     public class CategoriesController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Home()
         {
             return View();
         }

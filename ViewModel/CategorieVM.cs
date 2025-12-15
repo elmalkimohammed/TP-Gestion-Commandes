@@ -1,6 +1,10 @@
-﻿namespace TP_Gestion_Commandes.ViewModel
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace TP_Gestion_Commandes.ViewModel
 {
-    public class CategoriesVM
+    public class CategorieVM
     {
+        [Required(ErrorMessage = "Invalid Typed Informations")]
+        public String Libelle { get; set; }
     }
 }
