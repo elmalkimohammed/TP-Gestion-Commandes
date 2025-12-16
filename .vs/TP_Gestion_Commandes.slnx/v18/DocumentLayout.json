@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Bureau\\EHEI\\4ann\u00E9e\\DOTNET\\TP_Gestion_Commandes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A523412-B394-464E-8B69-C8285C0ACA4C}|TP_Gestion_Commandes.csproj|c:\\users\\pc\\onedrive\\bureau\\ehei\\4ann\u00E9e\\dotnet\\tp_gestion_commandes\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A523412-B394-464E-8B69-C8285C0ACA4C}|TP_Gestion_Commandes.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{011555D0-9DDF-246A-1616-06C63B88F9B5}|TP_Gestion_Commandes.csproj|c:\\users\\pc\\onedrive\\bureau\\ehei\\4ann\u00E9e\\dotnet\\tp_gestion_commandes\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011555D0-9DDF-246A-1616-06C63B88F9B5}|TP_Gestion_Commandes.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A523412-B394-464E-8B69-C8285C0ACA4C}|TP_Gestion_Commandes.csproj|c:\\users\\pc\\onedrive\\bureau\\ehei\\4ann\u00E9e\\dotnet\\tp_gestion_commandes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A523412-B394-464E-8B69-C8285C0ACA4C}|TP_Gestion_Commandes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{011555D0-9DDF-246A-1616-06C63B88F9B5}|TP_Gestion_Commandes.csproj|c:\\users\\pc\\onedrive\\bureau\\ehei\\4ann\u00E9e\\dotnet\\tp_gestion_commandes\\views\\categories\\targetpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{011555D0-9DDF-246A-1616-06C63B88F9B5}|TP_Gestion_Commandes.csproj|solutionrelative:views\\categories\\targetpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A523412-B394-464E-8B69-C8285C0ACA4C}|TP_Gestion_Commandes.csproj|c:\\users\\pc\\onedrive\\bureau\\ehei\\4ann\u00E9e\\dotnet\\tp_gestion_commandes\\viewmodel\\categorievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A523412-B394-464E-8B69-C8285C0ACA4C}|TP_Gestion_Commandes.csproj|solutionrelative:viewmodel\\categorievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A523412-B394-464E-8B69-C8285C0ACA4C}|TP_Gestion_Commandes.csproj|c:\\users\\pc\\onedrive\\bureau\\ehei\\4ann\u00E9e\\dotnet\\tp_gestion_commandes\\views\\categories\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A523412-B394-464E-8B69-C8285C0ACA4C}|TP_Gestion_Commandes.csproj|solutionrelative:views\\categories\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{011555D0-9DDF-246A-1616-06C63B88F9B5}|TP_Gestion_Commandes.csproj|c:\\users\\pc\\onedrive\\bureau\\ehei\\4ann\u00E9e\\dotnet\\tp_gestion_commandes\\views\\categories\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{011555D0-9DDF-246A-1616-06C63B88F9B5}|TP_Gestion_Commandes.csproj|solutionrelative:views\\categories\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Home.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EHEI\\4ann\u00E9e\\DOTNET\\TP_Gestion_Commandes\\Views\\Categories\\Home.cshtml",
               "RelativeDocumentMoniker": "Views\\Categories\\Home.cshtml",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EHEI\\4ann\u00E9e\\DOTNET\\TP_Gestion_Commandes\\Views\\Categories\\Home.cshtml",
               "RelativeToolTip": "Views\\Categories\\Home.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T19:55:29.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategorieVM.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EHEI\\4ann\u00E9e\\DOTNET\\TP_Gestion_Commandes\\ViewModel\\CategorieVM.cs",
-              "RelativeDocumentMoniker": "ViewModel\\CategorieVM.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EHEI\\4ann\u00E9e\\DOTNET\\TP_Gestion_Commandes\\ViewModel\\CategorieVM.cs",
-              "RelativeToolTip": "ViewModel\\CategorieVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T19:22:52.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EHEI\\4ann\u00E9e\\DOTNET\\TP_Gestion_Commandes\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EHEI\\4ann\u00E9e\\DOTNET\\TP_Gestion_Commandes\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T19:18:16.448Z",
+              "WhenOpened": "2025-12-16T16:14:02.47Z",
               "EditorCaption": ""
             },
             {
@@ -79,9 +49,22 @@
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EHEI\\4ann\u00E9e\\DOTNET\\TP_Gestion_Commandes\\Controllers\\CategoriesController.cs*",
               "RelativeToolTip": "Controllers\\CategoriesController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCQAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T19:18:04.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TargetPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Bureau\\EHEI\\4ann\u00E9e\\DOTNET\\TP_Gestion_Commandes\\Views\\Categories\\TargetPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\TargetPage.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Bureau\\EHEI\\4ann\u00E9e\\DOTNET\\TP_Gestion_Commandes\\Views\\Categories\\TargetPage.cshtml",
+              "RelativeToolTip": "Views\\Categories\\TargetPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T15:42:08.14Z",
               "EditorCaption": ""
             }
           ]

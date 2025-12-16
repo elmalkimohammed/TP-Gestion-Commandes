@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MySql.Data.MySqlClient;
+using TP_Gestion_Commandes.Models;
 using TP_Gestion_Commandes.ViewModel;
 
 namespace TP_Gestion_Commandes.Controllers
@@ -27,6 +28,24 @@ namespace TP_Gestion_Commandes.Controllers
 
             return View();
 
+        }
+        public IActionResult TargetPage()
+        {
+            MySqlConnection conn = new MySqlConnection("Host=localhost; Port=3309; Database=gestcommandes; Uid=root;") ;
+            conn.Open();
+            List<Category> list = new List<Category>();
+            MySqlCommand commd = new MySqlCommand("SELECT * FROM Category" , conn ) ;
+            MySqlDataReader tableReader = commd.ExecuteReader();
+            while ( tableReader.Read() )
+            {
+                Category category = new Category() ;
+                category.id = tableReader.GetInt32("id") ;
+                category.libelle = tableReader.GetString("libelle") ;
+                list.Add(category);
+            }
+            ViewBag.categsList = list ;
+            conn.Close();
+            return View();
         }
     }
 }

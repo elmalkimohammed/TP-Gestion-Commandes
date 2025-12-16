@@ -1,0 +1,16 @@
+﻿<h1>A List Of All Categories</h1>
+
+<table>
+    @foreach( Category category in ViewBag.categsList )
+    {
+        <thead>
+            Ids
+            <tr>@category.id</tr>
+        </thead>
+        <thead>
+            Categories
+            <tr>@category.libelle</tr>
+        </thead>
+    }
+</table>
+
